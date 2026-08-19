@@ -1,6 +1,6 @@
 # 김정식 · TOM
 
-> **Software engineer building systems, tools, and experiments that make complex work easier to understand and operate.**
+> **I build systems, developer tools, and experiments that make complex work easier to understand and operate.**
 
 복잡한 업무 규칙과 오래 운영되는 시스템을 이해 가능한 구조로 정리하는 일을 좋아합니다.  
 백엔드 시스템을 중심으로 일하며, 반복되는 개발 작업을 줄이는 내부도구와 검증 가능한 AI 활용 방식도 함께 만들고 있습니다.
