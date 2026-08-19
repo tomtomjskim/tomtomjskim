@@ -24,6 +24,7 @@
 |---|---|
 | [portfolio](https://github.com/tomtomjskim/portfolio) | Commerce·Logistics·MES와 Internal Tools 사례를 연결한 공개 포트폴리오 |
 | [stackforge-atlas](https://github.com/tomtomjskim/stackforge-atlas) | Product intent에서 interface, evidence, recovery까지 연결하는 engineering atlas |
+| [cmux-setup](https://github.com/tomtomjskim/cmux-setup) | 프로젝트별 개발 워크스페이스를 안전하고 반복 가능하게 구성하는 macOS helper |
 | [harness-kit](https://github.com/tomtomjskim/harness-kit) | 프로젝트별 AI coding configuration을 재사용 가능한 모듈로 관리하는 internal tool |
 | [codex-workflow-skills](https://github.com/tomtomjskim/codex-workflow-skills) | Intake, independent review, failure accounting, validation을 분리한 workflow skills |
 
