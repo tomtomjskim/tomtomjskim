@@ -7,9 +7,9 @@
 
 ## 바로 보기
 
-- **[개발 포트폴리오](https://github.com/tomtomjskim/portfolio)**
-- [백엔드 개발 사례](https://github.com/tomtomjskim/portfolio/blob/main/PORTFOLIO.md)
-- [AI 활용·내부 도구](https://github.com/tomtomjskim/portfolio/blob/main/PORTFOLIO-AX.md)
+- **[웹 포트폴리오](https://tomtomjskim.github.io/)**
+- [포트폴리오 원문과 변경 이력](https://github.com/tomtomjskim/portfolio)
+- [소개와 작업 기준](https://tomtomjskim.github.io/about/)
 
 ## 주로 하는 일
 
@@ -22,9 +22,9 @@
 
 | 사례 | 핵심 |
 |---|---|
-| [커머스·물류 변경 영향 분석](https://github.com/tomtomjskim/portfolio/blob/main/cases/commerce-change-impact.md) | 화면 증상 뒤의 DB 상태·권한·관리자·batch·외부 연동 범위를 추적 |
-| [제조 MES 요구사항 모델링](https://github.com/tomtomjskim/portfolio/blob/main/cases/mes-requirement-modeling.md) | 현장 요청을 입력·조회·상태·통계·권한·DB 규칙으로 분해 |
-| [실무형 AI 자동화](https://github.com/tomtomjskim/portfolio/blob/main/cases/practical-ai-automation.md) | 로컬 LLM·규칙 기반 코드·사람 판단의 책임을 실제 반복 업무에 적용 |
+| [커머스·물류 변경 영향 분석](https://tomtomjskim.github.io/cases/commerce-change-impact/) | 화면 증상 뒤의 DB 상태·권한·관리자·batch·외부 연동 범위를 추적 |
+| [제조 MES 요구사항 모델링](https://tomtomjskim.github.io/cases/mes-requirement-modeling/) | 현장 요청을 입력·조회·상태·통계·권한·DB 규칙으로 분해 |
+| [실무형 AI 자동화](https://tomtomjskim.github.io/cases/practical-ai-automation/) | 로컬 LLM·규칙 기반 코드·사람 판단의 책임을 실제 반복 업무에 적용 |
 
 ## 공개 개발 자료
 
